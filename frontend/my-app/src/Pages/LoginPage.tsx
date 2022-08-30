@@ -79,7 +79,7 @@ const LoginPage: React.FC = () => {
                     marginLeft: "8px",
                   }}
                 >
-                  Accenture
+                  FirmName
                 </StyledTypografy>
               </div>
             </Grid>
